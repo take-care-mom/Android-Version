@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Take Care Mom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toys_name1">Велосипед модели WEST7000: прокатитесь с ветерком</string>
+    <string name="shop_name1">Меломан</string>
+    <string name="date1"> Июнь 9, 2023</string>
+
+    <string name="toys_name2">Игрушка поезд: уникльное произведение Меломана!!!</string>
+    <string name="shop_name2">Альпака</string>
+    <string name="date2"> Июнь 10, 2023</string>
+
+</resources>
